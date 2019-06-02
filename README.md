@@ -9,7 +9,5 @@ Covers how to perform container linking via a docker compose YAML file and the d
 All you need to do once you git clone this repo is execute "docker-compose up" from the root project directory to have the environment
 re-produced on your docker host.
 
-Follow along by watching my YouTube Tutorial which goes through the entire process here ...
-
 "Deploy Spring Boot to Tomcat MongoDB Docker Containers"
 
